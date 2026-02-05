@@ -1,6 +1,6 @@
 # 🚀 DGMS News Scraper & Dashboard
 
-Mining students aur professionals ke liye ek automatic news tracking system jo DGMS ki official website se latest announcements nikalta hai.
+An automated news tracking system designed for mining students and professionals. This tool scrapes the official DGMS (Directorate General of Mines Safety) website to deliver the latest announcements in real-time.
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/k.vinitkarmkar">
@@ -9,22 +9,26 @@ Mining students aur professionals ke liye ek automatic news tracking system jo D
 </p>
 
 ## ✨ Features
-- **Auto-Scraping:** GitHub Actions har roz DGMS site se data fetch karta hai.
-- **JSON API:** Scrap kiya gaya data `news.json` mein store hota hai, jise kisi bhi app mein use kiya ja sakta hai.
-- **Live Dashboard:** DGMS Buddy dashboard par real-time updates dikhata hai.
+- **Auto-Scraping:** Powered by GitHub Actions to fetch data from the DGMS site daily.
+- **JSON API:** Scraped data is structured and stored in `news.json`, making it easy to integrate into any application.
+- **Live Dashboard:** Displays real-time updates through the DGMS Buddy web interface.
 
 ## 🛠️ Tech Stack
 - **Language:** Python (BeautifulSoup)
-- **Automation:** GitHub Actions
-- **Frontend:** HTML, CSS, JavaScript (Fetch API)
+- **Automation:** GitHub Actions (CI/CD)
+- **Frontend:** HTML5, CSS3, JavaScript (Fetch API)
 
-## 📡 Usage (API)
-Agar aap is data ko apne project mein use karna chahte hain, toh is URL ko fetch karein:
+## 📡 API Usage
+To integrate this live data into your own project, use the following endpoint:
 `https://raw.githubusercontent.com/minerbuddy/dgms-news-scraper/main/news.json`
 
-### 💡 JavaScript Integration (Avoid Caching)
-Browser cache se bachne ke liye aur hamesha fresh data dikhane ke liye niche wala tarika use karein:
+### 💡 JavaScript Integration (Bypass Caching)
+To ensure your application always displays the most recent data and avoids browser caching, use the following implementation:
+
 ```javascript
 const NEWS_URL = '[https://raw.githubusercontent.com/minerbuddy/dgms-news-scraper/main/news.json?v=](https://raw.githubusercontent.com/minerbuddy/dgms-news-scraper/main/news.json?v=)' + new Date().getTime();
 
-Developed with ❤️ by K Vinit Karmkar
+
+
+---
+Developed with ❤️ by [K Vinit Karmkar](https://kvinitkarmkar.github.io/Website/)
