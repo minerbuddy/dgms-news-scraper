@@ -26,5 +26,6 @@ To integrate this live data into your own project, use the following endpoint:
 To ensure your application always displays the most recent data and avoids browser caching, use the following implementation:
 
 ```javascript
-const NEWS_URL = '[https://raw.githubusercontent.com/minerbuddy/dgms-news-scraper/main/news.json?v=](https://raw.githubusercontent.com/minerbuddy/dgms-news-scraper/main/news.json?v=)' + new Date().getTime();```
-Developed with ❤️ by [K Vinit Karmkar](https://kvinitkarmkar.github.io/Website/)
+const NEWS_URL = '[https://raw.githubusercontent.com/minerbuddy/dgms-news-scraper/main/news.json?v=](https://raw.githubusercontent.com/minerbuddy/dgms-news-scraper/main/news.json?v=)' + new Date().getTime();
+
+### Developed with ❤️ by **[K Vinit Karmkar]**(https://kvinitkarmkar.github.io/Website/)
