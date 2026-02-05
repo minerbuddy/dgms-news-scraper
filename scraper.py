@@ -1,55 +1,33 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-import urllib3
 
-# SSL warnings ko ignore karne ke liye
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+url = "https://www.dgms.gov.in/writereaddata/LatestNews.html" # DGMS News URL
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+}
 
-def scrape_dgms():
-    url = "https://www.dgms.gov.in/Home/News"
-    base_url = "https://www.dgms.gov.in"
-    
+def scrape_news():
     try:
-        # User-Agent dalna zaroori hai taaki site ko lage browser se request aa rahi hai
-        headers = {'User-Agent': 'Mozilla/5.0'}
-        response = requests.get(url, verify=False, headers=headers, timeout=20)
+        response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        news_data = []
-        table = soup.find('table') 
+        news_list = []
         
-        if table:
-            rows = table.find_all('tr')
-            # Pehla row (header) chhod kar baaki 10 rows
-            for row in rows[1:11]: 
-                cols = row.find_all('td')
-                if len(cols) >= 2:
-                    date = cols[0].text.strip()
-                    title_elem = cols[1]
-                    title_text = title_elem.text.strip()
-                    
-                    # Link check aur Fix
-                    link_tag = title_elem.find('a')
-                    link = "#"
-                    if link_tag and link_tag.get('href'):
-                        link = link_tag.get('href')
-                        # Agar link relative hai toh base_url jodo
-                        if link.startswith('/'):
-                            link = base_url + link
-                    
-                    news_data.append({
-                        "date": date,
-                        "title": title_text,
-                        "link": link
-                    })
+        # Yahan apna scraping logic check karein (Example)
+        # Agar wo purane tags dhoond raha hai toh use update karein
+        for item in soup.find_all('a'): # Example tag
+            text = item.get_text(strip=True)
+            if text:
+                news_list.append({"title": text, "link": item.get('href')})
         
-        with open('news.json', 'w', encoding='utf-8') as f:
-            json.dump(news_data, f, indent=4, ensure_ascii=False)
-        print("Successfully updated news.json")
-
+        if not news_list:
+            print("Koi news nahi mili!")
+            
+        with open('news.json', 'w') as f:
+            json.dump(news_list, f, indent=4)
+            
     except Exception as e:
-        print(f"Error occurred: {e}")
+        print(f"Error: {e}")
 
-if __name__ == "__main__":
-    scrape_dgms()
+scrape_news()
