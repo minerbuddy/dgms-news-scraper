@@ -1,4 +1,4 @@
-# 🚀 DGMS News Scraper & Dashboard
+#  DGMS News Scraper & Dashboard
 
 An automated news tracking system designed for mining students and professionals. This tool scrapes the official DGMS (Directorate General of Mines Safety) website to deliver the latest announcements in real-time.
 
