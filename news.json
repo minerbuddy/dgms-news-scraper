@@ -1,74 +1,82 @@
 [
     {
-        "title": "History 333 KB",
+        "title": "इतिहास 333 KB",
         "link": "https://www.dgms.gov.in/writereaddata/Content/HISTORY.pdf"
     },
     {
-        "title": "Statutory Framework 199 KB",
+        "title": "वैधानिक ढांचा 199 KB",
         "link": "https://www.dgms.gov.in/writereaddata/Content/STATUTORYFRAMEWORK.pdf"
     },
     {
-        "title": "Vision & Mission 300 KB",
+        "title": "दृष्टि और मिशन 300 KB",
         "link": "https://www.dgms.gov.in/writereaddata/Content/VISIONMISSION.pdf"
     },
     {
-        "title": "Role And Functions 426 KB",
+        "title": "भूमिका और कार्य 426 KB",
         "link": "https://www.dgms.gov.in/writereaddata/Content/ROLEANDFUNCTIONS.pdf"
     },
     {
-        "title": "Organisational Structure 267 KB",
-        "link": "https://www.dgms.gov.in/writereaddata/Content/DGMS_ORGANISATIONAL_STRUCTURE_29122023.pdf"
+        "title": "संगठनात्मक संरचना 267 KB",
+        "link": "https://www.dgms.gov.in/writereaddata/Content/ORGANISATIONALSTRUCTURE.pdf"
     },
     {
         "title": "Jurisdiction Of Zones And Regions 575 KB",
         "link": "https://www.dgms.gov.in/writereaddata/Content/JURISDICTIONOFZONESANDREGIONS.pdf"
     },
     {
-        "title": "DGMS Quality Management System  ISO 9001 :2015",
+        "title": "डीजीएमएस गुणवत्ता प्रबंधन प्रणाली आईएसओ 9001:2015",
         "link": "https://www.dgms.gov.in/writereaddata/Content/DGMS_ISO.pdf"
     },
     {
-        "title": "The Mines Act, 1952 (602 KB)",
+        "title": "व्यावसायिक सुरक्षा, स्वास्थ्य और कार्य-दशा संहिता, 2020",
+        "link": "https://www.dgms.gov.in/writereaddata/UploadFile/OSH_11052026.pdf"
+    },
+    {
+        "title": "OSH WC (केंद्रीय) नियमों की राजपत्र अधिसूचना, 2026",
+        "link": "https://www.dgms.gov.in/writereaddata/UploadFile/CentralRule_12052026.pdf"
+    },
+    {
+        "title": "खान अधिनियम, 1952 (602 KB)",
         "link": "https://www.dgms.gov.in/writereaddata/UploadFile/MinesAct1952.pdf"
     },
     {
-        "title": "The Coal Mines Regulations, 2017 (1.91 MB)",
-        "link": "https://www.dgms.gov.in/writereaddata/UploadFile/Coal_Mines_Regulation_2017_Noti.pdf"
-    },
-    {
-        "title": "The Metalliferous Mines Regulations, 1961 (452 KB)",
+        "title": "धातुमय खान विनियम, 1961 (452 KB)",
         "link": "https://www.dgms.gov.in/writereaddata/UploadFile/MineRegulations1961_13092023.pdf"
     },
     {
-        "title": "The Oil Mines Regulations, 2017 (1 MB)",
+        "title": "कोयला खान विनियम, 2017 (1.91 MB)",
+        "link": "https://www.dgms.gov.in/writereaddata/UploadFile/Coal_Mines_Regulation_2017_Noti.pdf"
+    },
+    {
+        "title": "तेल खान विनियम, 2017 (1 MB)",
         "link": "https://www.dgms.gov.in/writereaddata/UploadFile/The_Oil_Mines_Regulation_2017.pdf"
     },
     {
-        "title": "The Mines Rules, 1955 (151 KB)",
+        "title": "खान नियम, 1955 (151 KB)",
         "link": "https://www.dgms.gov.in/writereaddata/UploadFile/Mines_Rules_1955.pdf"
     },
     {
-        "title": "The Mines Vocational Training Rules, 1966 (151 KB)",
+        "title": "खान व्यावसायिक प्रशिक्षण नियम, 1966 (151 KB)",
         "link": "https://www.dgms.gov.in/writereaddata/UploadFile/MineVocational966.pdf"
     },
     {
-        "title": "The Mine Rescue Rules, 1985 (60 KB)",
+        "title": "खदान बचाव नियम, 1985 (60 KB)",
         "link": "https://www.dgms.gov.in/writereaddata/UploadFile/Mines%20Rescue%20Rules,%201985.pdf"
     },
     {
-        "title": "The Mines Creche Rules, 1966 (39 KB)",
+        "title": "खान क्रेच नियम, 1966 (39 KB)",
         "link": "https://www.dgms.gov.in/writereaddata/UploadFile/Mines%20Creche%20Rules,%201966.pdf"
     },
     {
-        "title": "The Central Electricity Authority Regulations (Relating to Safety and Electricity Supply) , 2023 (1.63 MB)",
+        "title": "केंद्रीय विद्युत प्राधिकरण विनियम (सुरक्षा और विद्युत आपूर्ति से संबंधित), 2023 (1.63 MB)",
         "link": "https://www.dgms.gov.in/writereaddata/UploadFile/CentralElectricity2023.pdf"
     },
     {
-        "title": "The Explosives Rules, 2008 (740 KB)",
+        "title": "विस्फोटक नियम, 2008 (740 KB)",
         "link": "https://www.dgms.gov.in/writereaddata/UploadFile/ExplosivesRules2008.pdf"
     },
     {
-        "title": "The Factories Act, 1948 (705 KB)",
+        "title": "कारखाना अधिनियम, 1948 (705 KB)",
         "link": "https://www.dgms.gov.in/writereaddata/UploadFile/The_Factories_Act-1948.pdf"
     },
     {
@@ -76,11 +84,11 @@
         "link": "https://www.dgms.gov.in/writereaddata/Content/nsaextnew.pdf"
     },
     {
-        "title": "How to Apply Online, Register Mine User or Change Mine User Manual for National Safety Awards (MINES)  (162 KB)",
+        "title": "राष्ट्रीय सुरक्षा पुरस्कार (MINES) के लिए ऑनलाइन आवेदन कैसे करें, खान उपयोगकर्ता का पंजीकरण कैसे करें या खान उपयोगकर्ता मैनुअल कैसे बदलें (162 KB)",
         "link": "https://www.dgms.gov.in/writereaddata/Content/HOW%20TO%20APPLY%20ONLINE%20NSA.pdf"
     },
     {
-        "title": "How to fill Nomination Form for National Safety Award(Mines) 271 KB",
+        "title": "राष्ट्रीय सुरक्षा पुरस्कार (खान) के लिए नामांकन फॉर्म कैसे भरें 271 KB",
         "link": "https://www.dgms.gov.in/writereaddata/Content/Filling_Nomination_Steps.pdf"
     },
     {
@@ -88,8 +96,68 @@
         "link": "https://www.dgms.gov.in/writereaddata/Content/NSA_2020.pdf"
     },
     {
-        "title": "Quantum of Penalty For Falsification (204 KB)",
+        "title": "मिथ्याकरण के लिए दंड की मात्रा",
         "link": "https://www.dgms.gov.in/writereaddata/Content/QUANTUMSIFICATIONS.pdf"
+    },
+    {
+        "title": "प्राथमिक चिकित्सा प्रशिक्षण केन्द्र की सूची 12 -08-2024",
+        "link": "https://www.dgms.gov.in/writereaddata/Content/Training_centre_as_on_12_Aug2024.pdf"
+    },
+    {
+        "title": "अभ्यर्थियों की वर्जित सूची 11.08.2026",
+        "link": "https://www.dgms.gov.in/writereaddata/Content/DebaredList_ason05112026.pdf"
+    },
+    {
+        "title": "Central Public Information Officers (322 KB)",
+        "link": "https://www.dgms.gov.in/writereaddata/Content/CPIO_New_24072024.pdf"
+    },
+    {
+        "title": "केंद्रीय सहायक जन सूचना अधिकारी (300 KB)",
+        "link": "https://www.dgms.gov.in/writereaddata/Content/ACPIO.pdf"
+    },
+    {
+        "title": "डीजीएमएस के सभी कार्यालयों के लिए नोडल अधिकारी (866 KB)",
+        "link": "https://www.dgms.gov.in/writereaddata/Content/nodelOfficerDgms.pdf"
+    },
+    {
+        "title": "आरटीआई अधिनियम 2005 की धारा 4 के तहत तृतीय पक्ष ऑडिट के लिए नोडल अधिकारी (367 KB)",
+        "link": "https://www.dgms.gov.in/writereaddata/Content/Letter%20VVGNLI.pdf"
+    },
+    {
+        "title": "सिटीजन चार्टर 2022-23 (2.76 MB)",
+        "link": "https://www.dgms.gov.in/writereaddata/Content/Citizencharter22-23.pdf"
+    },
+    {
+        "title": "एसटीक्यूसी एवं सुरक्षा ऑडिट (460 KB)",
+        "link": "https://www.dgms.gov.in/writereaddata/Content/stqcertificate2025.pdf"
+    },
+    {
+        "title": "राज्य-वार खदान बचाव उपकरणों की सूची (243 KB)",
+        "link": "https://www.dgms.gov.in/writereaddata/Content/SafetyRescueHindi.pdf"
+    },
+    {
+        "title": "Shram Suvidha Registration Process",
+        "link": "https://www.dgms.gov.in/writereaddata/Content/ShramSuvidhaRegistration.pdf"
+    },
+    {
+        "title": "DGMS में युवा पेशेवरों (Young Professionals) की नियुक्ति हेतु विज्ञापन 722.00 KB",
+        "link": "https://www.dgms.gov.in/writereaddata/UploadFile/young_10112026.pdf"
+    },
+    {
+        "title": "Invitation for suggestions regarding the date for observance of National Mines Safety Day",
+        "link": "https://www.dgms.gov.in/writereaddata/UploadFile/National_NSD_03112026.pdf"
+    },
+    {
+        "title": "The Organisational Structure 267 KB",
+        "link": "https://www.dgms.gov.in/writereaddata/Content/DGMS_ORGANISATIONAL_STRUCTURE_29122023.pdf"
+    },
+    {
+        "title": "Notification of extension for National Safety Awards (Mines)-2022 (269 KB)",
+        "link": "https://www.dgms.gov.in/writereaddata/Content/nsaextnew.pdf"
+    },
+    {
+        "title": "List of prize winning mines and Nomination forms for NSA 2020 45 KB",
+        "link": "https://www.dgms.gov.in/writereaddata/Content/NSA_2020.pdf"
     },
     {
         "title": "List of First Aid Training Centre as on 12 Aug 2024",
@@ -100,44 +168,12 @@
         "link": "https://www.dgms.gov.in/writereaddata/Content/Debarred_List2026.pdf"
     },
     {
-        "title": "Central Public Information Officers (322 KB)",
-        "link": "https://www.dgms.gov.in/writereaddata/Content/CPIO_New_24072024.pdf"
-    },
-    {
-        "title": "Central Assistant Public Information Officers (300 KB)",
-        "link": "https://www.dgms.gov.in/writereaddata/Content/ACPIO.pdf"
-    },
-    {
-        "title": "Nodal Officer for all offices of DGMS (866 KB)",
-        "link": "https://www.dgms.gov.in/writereaddata/Content/nodelOfficerDgms.pdf"
-    },
-    {
-        "title": "Nodal officer for third party audit under section 4 of RTI ACT 2005 (367 KB)",
-        "link": "https://www.dgms.gov.in/writereaddata/Content/Letter%20VVGNLI.pdf"
-    },
-    {
-        "title": "Citizen Charter 2022-23 (2.76 MB)",
-        "link": "https://www.dgms.gov.in/writereaddata/Content/Citizencharter22-23.pdf"
-    },
-    {
-        "title": "STQC & Security Audit (460 KB)",
-        "link": "https://www.dgms.gov.in/writereaddata/Content/stqcertificate2025.pdf"
-    },
-    {
         "title": "State Wise Inventory of Safety & Rescue Equipment (243 KB)",
         "link": "https://www.dgms.gov.in/writereaddata/Content/State%20Wise%20Inv%20of%20Safety%20&%20Rescue%20Equi.pdf"
     },
     {
-        "title": "Shram Suvidha Registration Process",
-        "link": "https://www.dgms.gov.in/writereaddata/Content/ShramSuvidhaRegistration.pdf"
-    },
-    {
-        "title": "(Vacancy No. 26050518523) Eight vacancies for the post of Deputy Director of Mines Safety (Mining) in Directorate General of Mines Safety, Ministry of Labour and Employment. 4.95 MB",
+        "title": "UPSC Deputy Director of Mines Safety Vacancy 2026 (4.95 MB)",
         "link": "https://www.dgms.gov.in/writereaddata/UploadFile/UPSC_DDMS_VACANCY_10062026.pdf"
-    },
-    {
-        "title": "Gazette notificiation of OSH & WC (Central) Rules, 2026 0.00 KB",
-        "link": "https://www.dgms.gov.in/writereaddata/UploadFile/CentralRule_12052026.pdf"
     },
     {
         "title": "NOTICE REGARDING E-EXPLODER 227.94 KB",
